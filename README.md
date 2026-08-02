@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg
+
 <!--
 **SauravBhandariWeb/SauravBhandariWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
