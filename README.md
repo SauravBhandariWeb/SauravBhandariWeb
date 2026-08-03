@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SauravBhandariWeb/SauravBhandariWeb/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/SauravBhandariWeb/SauravBhandariWeb/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
 
 <!--
