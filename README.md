@@ -1,18 +1,38 @@
-# 💫 About Me:
+### 🚀 About Me
+
 
 const saurav = {
-    location: "Jaipur, Rajasthan, India",
-    education: "B.Tech Computer Science Engineering | 2027",
-    currentFocus: [
-        "Full-Stack Development",
-        "DSA & Problem Solving"
-    ],
-    interests: [
-        "Web Development",
-        "AI Integration",
-        "Building Real-World Products"
-    ],
-    funFact: "I turn ideas into code and products 🚀"
+  location: "Jaipur, Rajasthan, India",
+  education: "B.Tech CSE | 2027",
+  role: "Software Engineer | Full-Stack Developer",
+
+  building: [
+    "Full-Stack Web Applications",
+    "AI-powered Products",
+    "Real-World Developer Tools"
+  ],
+
+  learning: [
+    "Data Structures & Algorithms",
+    "Backend Architecture",
+    "System Design Fundamentals"
+  ],
+
+  stack: [
+    "React",
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "C++"
+  ],
+
+  stats: {
+    projects: "3 deployed",
+    leetcode: "300+ problems solved"
+  },
+
+  funFact: "I don't just write code — I build, debug, and ship."
 };
 
 ## 🌐 Socials:
