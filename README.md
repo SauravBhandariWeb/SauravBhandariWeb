@@ -39,7 +39,7 @@ const saurav = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?logo=vercel&logoColor=white)](https://devbysaurav.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/sauravCoder007/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SauravBhandariWeb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-bhandari/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-bhandari-223ab0294?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 # 💻 Tech Stack:
 
